@@ -1,6 +1,6 @@
-# [TranLam]'s Notes
+# [Tran Lam]'s Notes
 # This is an H1 header (largest)
-###### This is an H6 header (smallest)
+#####This is an H6 header (smallest)
 
 ## Summary 
-This repository contains all of the notes taken by [Tran Lam] for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [https://github.com/justintu2021] for the https://www.lighthouselabs.ca Web Development Bootcamp.
